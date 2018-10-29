@@ -37,6 +37,8 @@ Start
 -----
 
 1. `npm init`
+   - put initial path as `src/index.js`
+   - add `"start": "node src/index.js"` to runconfig
 2. `npm install --save dotenv request eslint cli-table`
    - what are these libraries?
    - you'll see dotenv later in the bootcamp

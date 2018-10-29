@@ -1,3 +1,4 @@
+// see library docs @ https://github.com/Automattic/cli-table
 const Table = require('cli-table');
 
 const HEADERS = [
