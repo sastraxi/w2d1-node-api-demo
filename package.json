@@ -1,0 +1,25 @@
+{
+  "name": "w2d1-node-api-demo",
+  "version": "1.0.0",
+  "description": "Live-coded Dark Sky API demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sastraxi/w2d1-node-api-demo.git"
+  },
+  "author": "Cameron Gorrie <sastraxi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sastraxi/w2d1-node-api-demo/issues"
+  },
+  "homepage": "https://github.com/sastraxi/w2d1-node-api-demo#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "dotenv": "^6.1.0",
+    "eslint": "^5.8.0",
+    "request": "^2.88.0"
+  }
+}
